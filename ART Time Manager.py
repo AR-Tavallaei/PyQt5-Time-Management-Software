@@ -671,8 +671,8 @@ class TimeManager(QWidget):
 
     def make_about(self):
         self.about_win = QWidget()
-        self.about_win.setGeometry(700, 400, 450, 350)
-        self.about_win.setFixedSize(450, 350)
+        self.about_win.setGeometry(700, 400, 450, 380)
+        self.about_win.setFixedSize(450, 380)
         self.about_win.setWindowIcon(QIcon(resource_path('media/logo.png')))
         self.about_win.setWindowTitle('About Us')
         self.about_win.setStyleSheet('background-color: #303030')
