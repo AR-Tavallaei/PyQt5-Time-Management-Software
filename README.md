@@ -15,11 +15,15 @@ pip install PyQt5
 # ScreenShot
 
 Time Menu
+
 <img src="pictures/1.PNG"></img>
 
 Timer Menu
+
 <img src="pictures/2.PNG"></img>
 
 CountDown Menu
+
 <img src="pictures/3.PNG"></img>
+
 <img src="pictures/4.PNG"></img>
